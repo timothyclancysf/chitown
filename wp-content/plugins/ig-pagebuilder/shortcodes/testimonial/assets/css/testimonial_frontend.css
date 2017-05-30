@@ -1,0 +1,14 @@
+
+/*** Testimonial ***/
+.jsn-bootstrap3 .ig-testimonial {
+	position: relative;
+	z-index: 1;
+}
+.jsn-bootstrap3 .ig-testimonial h2 {
+	clear: none;
+}
+.jsn-bootstrap3 .ig-testimonial section{
+	padding: 28px 28px 27px 31px;
+	margin: 0 0 28px;
+	position: relative;
+}
